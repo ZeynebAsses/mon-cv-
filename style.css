@@ -1,0 +1,33 @@
+style.css
+
+header{
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: brown;
+    font-weight: 300;
+}
+body{
+    color:black;
+    background: local;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: x-large;
+}
+h1{
+    background: fixed;
+    font-size: xx-large;
+    background-color: white;
+    color: rgb(165, 42, 91);
+    text-decoration: double;
+    transition: duration 2px;
+    font-style: gras;
+}
+h2{
+    background: fixed;
+    background-color: white;
+    font-size: x-large;
+    color: black;
+}
+legend{
+    color: brown;
+}
